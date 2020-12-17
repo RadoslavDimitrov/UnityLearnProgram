@@ -13,9 +13,238 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-17T20:23:59.238+02:00
-  initializedAtString: 2020-12-17T20:23:59.238+02:00
+  lastUpdatedAtString: 2020-12-17T22:13:50.356+02:00
+  initializedAtString: 2020-12-17T20:41:34.783+02:00
   entries:
+  - path: Prototype 1\Assets\Challenge 1.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1.meta
+    projectPath: Assets\Challenge 1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\_Source_Files.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\_Source_Files.meta
+    projectPath: Assets\Challenge 1\_Source_Files.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\_Source_Files\Materials.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\_Source_Files\Materials.meta
+    projectPath: Assets\Challenge 1\_Source_Files\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\_Source_Files\Materials\Black.mat
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\_Source_Files\Materials\Black.mat
+    projectPath: Assets\Challenge 1\_Source_Files\Materials\Black.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\_Source_Files\Materials\Black.mat.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\_Source_Files\Materials\Black.mat.meta
+    projectPath: Assets\Challenge 1\_Source_Files\Materials\Black.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\_Source_Files\Materials\Grey.mat
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\_Source_Files\Materials\Grey.mat
+    projectPath: Assets\Challenge 1\_Source_Files\Materials\Grey.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\_Source_Files\Materials\Grey.mat.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\_Source_Files\Materials\Grey.mat.meta
+    projectPath: Assets\Challenge 1\_Source_Files\Materials\Grey.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\_Source_Files\Materials\Red.mat
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\_Source_Files\Materials\Red.mat
+    projectPath: Assets\Challenge 1\_Source_Files\Materials\Red.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\_Source_Files\Materials\Red.mat.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\_Source_Files\Materials\Red.mat.meta
+    projectPath: Assets\Challenge 1\_Source_Files\Materials\Red.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Challenge 1.unity
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Challenge 1.unity
+    projectPath: Assets\Challenge 1\Challenge 1.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Challenge 1.unity.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Challenge 1.unity.meta
+    projectPath: Assets\Challenge 1\Challenge 1.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Instructions.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Instructions.meta
+    projectPath: Assets\Challenge 1\Instructions.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Instructions\Challenge 1 - Outcome.mov
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Instructions\Challenge 1 - Outcome.mov
+    projectPath: Assets\Challenge 1\Instructions\Challenge 1 - Outcome.mov
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Instructions\Challenge 1 - Outcome.mov.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Instructions\Challenge 1 - Outcome.mov.meta
+    projectPath: Assets\Challenge 1\Instructions\Challenge 1 - Outcome.mov.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Scripts.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Scripts.meta
+    projectPath: Assets\Challenge 1\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Scripts\FollowPlayerX.cs
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Scripts\FollowPlayerX.cs
+    projectPath: Assets\Challenge 1\Scripts\FollowPlayerX.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Scripts\FollowPlayerX.cs.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Scripts\FollowPlayerX.cs.meta
+    projectPath: Assets\Challenge 1\Scripts\FollowPlayerX.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Scripts\PlayerControllerX.cs
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Scripts\PlayerControllerX.cs
+    projectPath: Assets\Challenge 1\Scripts\PlayerControllerX.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Scripts\PlayerControllerX.cs.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Scripts\PlayerControllerX.cs.meta
+    projectPath: Assets\Challenge 1\Scripts\PlayerControllerX.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Scripts\PropellerController.cs
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Scripts\PropellerController.cs
+    projectPath: Assets\Challenge 1\Scripts\PropellerController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Challenge 1\Scripts\PropellerController.cs.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Challenge
+      1\Scripts\PropellerController.cs.meta
+    projectPath: Assets\Challenge 1\Scripts\PropellerController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\_Source_Files\_LICENSE.txt.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\_Source_Files\_LICENSE.txt.meta
+    projectPath: Assets\Course Library\_Source_Files\_LICENSE.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\Assets\Course Library\_Source_Files\FBX\Small_Plane02.fbx
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\_Source_Files\FBX\Small_Plane02.fbx
+    projectPath: Assets\Course Library\_Source_Files\FBX\Small_Plane02.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\_Source_Files\FBX\Small_Plane02.fbx.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\_Source_Files\FBX\Small_Plane02.fbx.meta
+    projectPath: Assets\Course Library\_Source_Files\FBX\Small_Plane02.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\_Source_Files\Materials\SimpleAirport.mat
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\_Source_Files\Materials\SimpleAirport.mat
+    projectPath: Assets\Course Library\_Source_Files\Materials\SimpleAirport.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\_Source_Files\Materials\SimpleAirport.mat.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\_Source_Files\Materials\SimpleAirport.mat.meta
+    projectPath: Assets\Course Library\_Source_Files\Materials\SimpleAirport.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\_Source_Files\Textures\SimpleAirport.png
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\_Source_Files\Textures\SimpleAirport.png
+    projectPath: Assets\Course Library\_Source_Files\Textures\SimpleAirport.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\_Source_Files\Textures\SimpleAirport.png.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\_Source_Files\Textures\SimpleAirport.png.meta
+    projectPath: Assets\Course Library\_Source_Files\Textures\SimpleAirport.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\Vehicles\Planes.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\Vehicles\Planes.meta
+    projectPath: Assets\Course Library\Vehicles\Planes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\Vehicles\Planes\Small_Plane02.prefab
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\Vehicles\Planes\Small_Plane02.prefab
+    projectPath: Assets\Course Library\Vehicles\Planes\Small_Plane02.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Assets\Course Library\Vehicles\Planes\Small_Plane02.prefab.meta
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Assets\Course
+      Library\Vehicles\Planes\Small_Plane02.prefab.meta
+    projectPath: Assets\Course Library\Vehicles\Planes\Small_Plane02.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\assetDatabase3
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\Library\CrashedAssetImports.txt
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Prototype 1\Library\EditorInstance.json
     fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -26,17 +255,323 @@ MonoBehaviour:
     fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Prototype 1\Library\gfu\cache\gitstatusentries.yaml
     fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Prototype 1\Library\gfu\cache\repoinfo.yaml
     fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\Library\metadata\02\0232a093d67e448b7a80e945acf8e227
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\02\0232a093d67e448b7a80e945acf8e227
+    projectPath: Library\metadata\02\0232a093d67e448b7a80e945acf8e227
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\02\0232a093d67e448b7a80e945acf8e227.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\02\0232a093d67e448b7a80e945acf8e227.info
+    projectPath: Library\metadata\02\0232a093d67e448b7a80e945acf8e227.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\03\0310a912c63a84902ab614f875fc4f7e
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\03\0310a912c63a84902ab614f875fc4f7e
+    projectPath: Library\metadata\03\0310a912c63a84902ab614f875fc4f7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Prototype 1\Library\metadata\03\0310a912c63a84902ab614f875fc4f7e.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\03\0310a912c63a84902ab614f875fc4f7e.info
+    projectPath: Library\metadata\03\0310a912c63a84902ab614f875fc4f7e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Prototype 1\Library\metadata\05\05534b528de7845f0917a1c820f252e2
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\05\05534b528de7845f0917a1c820f252e2
+    projectPath: Library\metadata\05\05534b528de7845f0917a1c820f252e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\05\05534b528de7845f0917a1c820f252e2.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\05\05534b528de7845f0917a1c820f252e2.info
+    projectPath: Library\metadata\05\05534b528de7845f0917a1c820f252e2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\2a\2afe453b8a24544b39ee349f8a0d0899
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\2a\2afe453b8a24544b39ee349f8a0d0899
+    projectPath: Library\metadata\2a\2afe453b8a24544b39ee349f8a0d0899
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\2a\2afe453b8a24544b39ee349f8a0d0899.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\2a\2afe453b8a24544b39ee349f8a0d0899.info
+    projectPath: Library\metadata\2a\2afe453b8a24544b39ee349f8a0d0899.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\39\39b403824b52b4f4c863f74ab98a6894
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\39\39b403824b52b4f4c863f74ab98a6894
+    projectPath: Library\metadata\39\39b403824b52b4f4c863f74ab98a6894
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\39\39b403824b52b4f4c863f74ab98a6894.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\39\39b403824b52b4f4c863f74ab98a6894.info
+    projectPath: Library\metadata\39\39b403824b52b4f4c863f74ab98a6894.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\45\45695763e74194cd2bc573ea63492ff5
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\45\45695763e74194cd2bc573ea63492ff5
+    projectPath: Library\metadata\45\45695763e74194cd2bc573ea63492ff5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\45\45695763e74194cd2bc573ea63492ff5.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\45\45695763e74194cd2bc573ea63492ff5.info
+    projectPath: Library\metadata\45\45695763e74194cd2bc573ea63492ff5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\45\45695763e74194cd2bc573ea63492ff5.resource
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\45\45695763e74194cd2bc573ea63492ff5.resource
+    projectPath: Library\metadata\45\45695763e74194cd2bc573ea63492ff5.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\57\573453567e55b468d959b66ab676a102
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\57\573453567e55b468d959b66ab676a102
+    projectPath: Library\metadata\57\573453567e55b468d959b66ab676a102
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\57\573453567e55b468d959b66ab676a102.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\57\573453567e55b468d959b66ab676a102.info
+    projectPath: Library\metadata\57\573453567e55b468d959b66ab676a102.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\5b\5bdf4d3d5d3951d4c8a861101a144e82
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\5b\5bdf4d3d5d3951d4c8a861101a144e82
+    projectPath: Library\metadata\5b\5bdf4d3d5d3951d4c8a861101a144e82
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\5b\5bdf4d3d5d3951d4c8a861101a144e82.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\5b\5bdf4d3d5d3951d4c8a861101a144e82.info
+    projectPath: Library\metadata\5b\5bdf4d3d5d3951d4c8a861101a144e82.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\76\76c4151b200124c0ca7b9eb615ff5846
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\76\76c4151b200124c0ca7b9eb615ff5846
+    projectPath: Library\metadata\76\76c4151b200124c0ca7b9eb615ff5846
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\76\76c4151b200124c0ca7b9eb615ff5846.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\76\76c4151b200124c0ca7b9eb615ff5846.info
+    projectPath: Library\metadata\76\76c4151b200124c0ca7b9eb615ff5846.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\81\81692218344829342a02aaccacffdc4f
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\81\81692218344829342a02aaccacffdc4f
+    projectPath: Library\metadata\81\81692218344829342a02aaccacffdc4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\81\81692218344829342a02aaccacffdc4f.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\81\81692218344829342a02aaccacffdc4f.info
+    projectPath: Library\metadata\81\81692218344829342a02aaccacffdc4f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\ab\ab37f46732fae4a0fb02712a6d036f7c
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\ab\ab37f46732fae4a0fb02712a6d036f7c
+    projectPath: Library\metadata\ab\ab37f46732fae4a0fb02712a6d036f7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\ab\ab37f46732fae4a0fb02712a6d036f7c.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\ab\ab37f46732fae4a0fb02712a6d036f7c.info
+    projectPath: Library\metadata\ab\ab37f46732fae4a0fb02712a6d036f7c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\af\af29f0ea7e5403641b3b244ede69c374
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\af\af29f0ea7e5403641b3b244ede69c374
+    projectPath: Library\metadata\af\af29f0ea7e5403641b3b244ede69c374
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\af\af29f0ea7e5403641b3b244ede69c374.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\af\af29f0ea7e5403641b3b244ede69c374.info
+    projectPath: Library\metadata\af\af29f0ea7e5403641b3b244ede69c374.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\b6\b6cc3e14dbc3342c8ab192babf679766
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\b6\b6cc3e14dbc3342c8ab192babf679766
+    projectPath: Library\metadata\b6\b6cc3e14dbc3342c8ab192babf679766
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\b6\b6cc3e14dbc3342c8ab192babf679766.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\b6\b6cc3e14dbc3342c8ab192babf679766.info
+    projectPath: Library\metadata\b6\b6cc3e14dbc3342c8ab192babf679766.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\b7\b787d51e07aaf4afa8847af48e71e8a4
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\b7\b787d51e07aaf4afa8847af48e71e8a4
+    projectPath: Library\metadata\b7\b787d51e07aaf4afa8847af48e71e8a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\b7\b787d51e07aaf4afa8847af48e71e8a4.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\b7\b787d51e07aaf4afa8847af48e71e8a4.info
+    projectPath: Library\metadata\b7\b787d51e07aaf4afa8847af48e71e8a4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\b8\b80c3aa18becc4e8fa6d7888cadff7b6
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\b8\b80c3aa18becc4e8fa6d7888cadff7b6
+    projectPath: Library\metadata\b8\b80c3aa18becc4e8fa6d7888cadff7b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\b8\b80c3aa18becc4e8fa6d7888cadff7b6.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\b8\b80c3aa18becc4e8fa6d7888cadff7b6.info
+    projectPath: Library\metadata\b8\b80c3aa18becc4e8fa6d7888cadff7b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\c1\c1dc1e891d1bd477fb2e5fcc6b94b50c
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\c1\c1dc1e891d1bd477fb2e5fcc6b94b50c
+    projectPath: Library\metadata\c1\c1dc1e891d1bd477fb2e5fcc6b94b50c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\c1\c1dc1e891d1bd477fb2e5fcc6b94b50c.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\c1\c1dc1e891d1bd477fb2e5fcc6b94b50c.info
+    projectPath: Library\metadata\c1\c1dc1e891d1bd477fb2e5fcc6b94b50c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\c7\c760c8eaaf67f4037a460bbfeb33ced4
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\c7\c760c8eaaf67f4037a460bbfeb33ced4
+    projectPath: Library\metadata\c7\c760c8eaaf67f4037a460bbfeb33ced4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\c7\c760c8eaaf67f4037a460bbfeb33ced4.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\c7\c760c8eaaf67f4037a460bbfeb33ced4.info
+    projectPath: Library\metadata\c7\c760c8eaaf67f4037a460bbfeb33ced4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\e2\e29557c53f06e405dbe7bf4eeece5a24
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\e2\e29557c53f06e405dbe7bf4eeece5a24
+    projectPath: Library\metadata\e2\e29557c53f06e405dbe7bf4eeece5a24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\e2\e29557c53f06e405dbe7bf4eeece5a24.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\e2\e29557c53f06e405dbe7bf4eeece5a24.info
+    projectPath: Library\metadata\e2\e29557c53f06e405dbe7bf4eeece5a24.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\e6\e6d1204d42e6e6747a595fd22aa2ade5
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\e6\e6d1204d42e6e6747a595fd22aa2ade5
+    projectPath: Library\metadata\e6\e6d1204d42e6e6747a595fd22aa2ade5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\e6\e6d1204d42e6e6747a595fd22aa2ade5.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\e6\e6d1204d42e6e6747a595fd22aa2ade5.info
+    projectPath: Library\metadata\e6\e6d1204d42e6e6747a595fd22aa2ade5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\f9\f9063a172dec5824f87a148932421f2d
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\f9\f9063a172dec5824f87a148932421f2d
+    projectPath: Library\metadata\f9\f9063a172dec5824f87a148932421f2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\metadata\f9\f9063a172dec5824f87a148932421f2d.info
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\metadata\f9\f9063a172dec5824f87a148932421f2d.info
+    projectPath: Library\metadata\f9\f9063a172dec5824f87a148932421f2d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\Library\ShaderCache\0\06a01483f6dd9776cf3ff3d43ccabf20.bin
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ShaderCache\0\06a01483f6dd9776cf3ff3d43ccabf20.bin
+    projectPath: Library\ShaderCache\0\06a01483f6dd9776cf3ff3d43ccabf20.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\ShaderCache\1\1fb497adc0b445563d281b474413384c.bin
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ShaderCache\1\1fb497adc0b445563d281b474413384c.bin
+    projectPath: Library\ShaderCache\1\1fb497adc0b445563d281b474413384c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\ShaderCache\2\242ed8b4dd733675bf793d636c00b5b3.bin
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ShaderCache\2\242ed8b4dd733675bf793d636c00b5b3.bin
+    projectPath: Library\ShaderCache\2\242ed8b4dd733675bf793d636c00b5b3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\ShaderCache\4\4a87d684900b3b178879ba5d9fc41ee6.bin
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ShaderCache\4\4a87d684900b3b178879ba5d9fc41ee6.bin
+    projectPath: Library\ShaderCache\4\4a87d684900b3b178879ba5d9fc41ee6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\ShaderCache\6\68ef9429f9d8c8f4abdfd38b2462f8f0.bin
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ShaderCache\6\68ef9429f9d8c8f4abdfd38b2462f8f0.bin
+    projectPath: Library\ShaderCache\6\68ef9429f9d8c8f4abdfd38b2462f8f0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\ShaderCache\7\7b7cb6d59ad0f48189819716283ac586.bin
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ShaderCache\7\7b7cb6d59ad0f48189819716283ac586.bin
+    projectPath: Library\ShaderCache\7\7b7cb6d59ad0f48189819716283ac586.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\ShaderCache\8\8bb53d0dfb1c52879042143d4f89d872.bin
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ShaderCache\8\8bb53d0dfb1c52879042143d4f89d872.bin
+    projectPath: Library\ShaderCache\8\8bb53d0dfb1c52879042143d4f89d872.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Library\ShaderCache\e\e8e4ffc384642dfd5bc0df18290ec642.bin
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\ShaderCache\e\e8e4ffc384642dfd5bc0df18290ec642.bin
+    projectPath: Library\ShaderCache\e\e8e4ffc384642dfd5bc0df18290ec642.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -46,15 +581,183 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Prototype 1\Library\StateCache\Hierarchy\ea48a4-mainStage.json
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\StateCache\Hierarchy\ea48a4-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\ea48a4-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\Library\StateCache\SceneView\d30e75-mainStage.json
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Library\StateCache\SceneView\d30e75-mainStage.json
+    projectPath: Library\StateCache\SceneView\d30e75-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\ProjectSettings\GraphicsSettings.asset
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\ProjectSettings\ProjectSettings.asset
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\ProjectSettings\QualitySettings.asset
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Prototype 1\Temp\__Backupscenes\0.backup
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Prototype 1\Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
     fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
     projectPath: Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Prototype 1\Temp\ProcessJobs\6d2827cdc0f2598334506f958c63be4d.bakert
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\ProcessJobs\6d2827cdc0f2598334506f958c63be4d.bakert
+    projectPath: Temp\ProcessJobs\6d2827cdc0f2598334506f958c63be4d.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Prototype 1\Temp\UnityLockfile
     fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-17f99525db6ddd746be223dc4c7e8ebd
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-17f99525db6ddd746be223dc4c7e8ebd
+    projectPath: Temp\UnityTempFile-17f99525db6ddd746be223dc4c7e8ebd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-1bd00648ea8ffc7439e870ef30f9ae40
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-1bd00648ea8ffc7439e870ef30f9ae40
+    projectPath: Temp\UnityTempFile-1bd00648ea8ffc7439e870ef30f9ae40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-2611593544ffbc94faf47b0e24275292
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-2611593544ffbc94faf47b0e24275292
+    projectPath: Temp\UnityTempFile-2611593544ffbc94faf47b0e24275292
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-2831823d01b734a4c88dff76bc9c08ec
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-2831823d01b734a4c88dff76bc9c08ec
+    projectPath: Temp\UnityTempFile-2831823d01b734a4c88dff76bc9c08ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-411ce3615e15b424eba0aa44710caa11
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-411ce3615e15b424eba0aa44710caa11
+    projectPath: Temp\UnityTempFile-411ce3615e15b424eba0aa44710caa11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-4a2c49cbf98239b4e889cabbaf887d85
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-4a2c49cbf98239b4e889cabbaf887d85
+    projectPath: Temp\UnityTempFile-4a2c49cbf98239b4e889cabbaf887d85
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-52160dd2377c10b4ab8670d7d1e7d093
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-52160dd2377c10b4ab8670d7d1e7d093
+    projectPath: Temp\UnityTempFile-52160dd2377c10b4ab8670d7d1e7d093
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-56b3a1afb6dda6548ba48958ad0b7ce2
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-56b3a1afb6dda6548ba48958ad0b7ce2
+    projectPath: Temp\UnityTempFile-56b3a1afb6dda6548ba48958ad0b7ce2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-66be618522a9b2a40b0a32b8fc507420
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-66be618522a9b2a40b0a32b8fc507420
+    projectPath: Temp\UnityTempFile-66be618522a9b2a40b0a32b8fc507420
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-6a7e844098525a54ba2c418a4cc720a5
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-6a7e844098525a54ba2c418a4cc720a5
+    projectPath: Temp\UnityTempFile-6a7e844098525a54ba2c418a4cc720a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-6b180289397015d4d9e0ec3871bc8ca7
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-6b180289397015d4d9e0ec3871bc8ca7
+    projectPath: Temp\UnityTempFile-6b180289397015d4d9e0ec3871bc8ca7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-9a0a8f1d44f1fb3409880d3adc9b6996
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-9a0a8f1d44f1fb3409880d3adc9b6996
+    projectPath: Temp\UnityTempFile-9a0a8f1d44f1fb3409880d3adc9b6996
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-9d760b1b090634d459eec0e93c6672e6
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-9d760b1b090634d459eec0e93c6672e6
+    projectPath: Temp\UnityTempFile-9d760b1b090634d459eec0e93c6672e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-b0e4f715888a055468632aa16a159aae
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-b0e4f715888a055468632aa16a159aae
+    projectPath: Temp\UnityTempFile-b0e4f715888a055468632aa16a159aae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-d5a44ed29fd801c428b98bc5b252e94a
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-d5a44ed29fd801c428b98bc5b252e94a
+    projectPath: Temp\UnityTempFile-d5a44ed29fd801c428b98bc5b252e94a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-e3b2f06d554056e4db3686b1f2243196
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-e3b2f06d554056e4db3686b1f2243196
+    projectPath: Temp\UnityTempFile-e3b2f06d554056e4db3686b1f2243196
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Prototype 1\Temp\UnityTempFile-f1a983710abacb245a41858d57b5f080
+    fullPath: D:\morve\CreateWithCode\UnityLearnProgram\Prototype 1\Temp\UnityTempFile-f1a983710abacb245a41858d57b5f080
+    projectPath: Temp\UnityTempFile-f1a983710abacb245a41858d57b5f080
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
